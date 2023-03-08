@@ -1,0 +1,6 @@
+venv/
+.DS_STORE
+credentials_sheets.json
+credentials.json
+token_send.json
+token.json
